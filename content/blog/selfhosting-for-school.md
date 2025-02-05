@@ -1,7 +1,6 @@
 +++
 title = "Selfhosting for School"
 date = "2025-02-02T16:53:36-07:00"
-draft = 'true'
 
 #
 # description is optional
